@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MuhammedSadik</h1>
+<h1 align="center">Hi 👋, I'm Mukhammadsodiq</h1>
 <h3 align="center">Pentester / White Hat Haker</h3>
 
 - 📫 How to reach me **reversoking06@gmail.com**
